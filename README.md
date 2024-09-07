@@ -8,3 +8,11 @@ This is a simple Tic-Tac-Toe game built with [p5.js](https://p5js.org/). Play a 
 
    ```bash
    git clone https://github.com/vivaan-iitrpr/tic-tac-toe.git
+
+2. **Navigate to the Project Directory**
+    
+    cd your-repository-name
+
+3. **Open index.html**
+
+    Open index.html in your web browser to start playing the game.

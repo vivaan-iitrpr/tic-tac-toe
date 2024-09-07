@@ -11,6 +11,7 @@ This is a simple Tic-Tac-Toe game built with [p5.js](https://p5js.org/). Play a 
 
 2. **Navigate to the Project Directory**
     
+    ```bash
     cd your-repository-name
 
 3. **Open index.html**

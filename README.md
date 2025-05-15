@@ -20,4 +20,4 @@ This is a simple Tic-Tac-Toe game built with [p5.js](https://p5js.org/). Play a 
 
 
 4. **Made a change here**
-     Added new content here  
+     Added new content here to check.  
